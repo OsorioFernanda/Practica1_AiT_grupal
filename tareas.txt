@@ -3,7 +3,7 @@
 PENDIENTES:
 
 === TAREAS PERSONA A ===
-- (Persona A: añadir aquí su tarea)
+- Configurar el entorno de desarrollo (Persona A)
 
 
 
