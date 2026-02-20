@@ -9,7 +9,7 @@ PENDIENTES:
 
 
 === TAREAS PERSONA B ===
-- (Persona B: añadir aquí su tarea)
+- Diseñar la interfaz de usuario (Persona B)
 
 
 
