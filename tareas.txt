@@ -8,6 +8,7 @@ PENDIENTES:
 
 
 
+
 === TAREAS PERSONA B ===
 - Diseñar la interfaz de usuario (Persona B)
 
