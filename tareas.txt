@@ -3,7 +3,7 @@
 PENDIENTES:
 
 === TAREAS PERSONA A ===
-- Configurar el entorno de desarrollo (Persona A)
+- Configurar el entorno de desarrollo (Persona A) ✓ COMPLETADA
 
 
 
